@@ -7,5 +7,5 @@ The code currently contains just the code to do the read.  Code for an update pr
 
 this should be considered a community project so anyone can add code, fix errors, ...
 
-SOme template code could be useful but this should be keep in derived objects for the most part.  Possiably a template that collects 
+Some template code could be useful but this should be keep in derived objects for the most part.  Possiably a template that collects 
 the stored proecure name and parameters, if any, could be added.  
